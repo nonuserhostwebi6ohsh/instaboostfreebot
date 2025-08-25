@@ -1,9 +1,7 @@
 {
-  "name": "instaboostfreebot",
+  "name": "telegram-bot-netlify",
   "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {
-    "axios": "^1.6.0",
-    "node-telegram-bot-api": "^0.61.0"
+    "axios": "^1.6.0"
   }
 }
